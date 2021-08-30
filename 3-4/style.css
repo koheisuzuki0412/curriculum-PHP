@@ -1,0 +1,35 @@
+body {
+    margin: 0;
+}
+header {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+.h-left {
+    width: 200px;
+    height: 120px;
+    background-color: #add8e6;
+}
+img {
+    width: 200px;
+    height: 120px;
+}
+.h-right {
+    width: 800px;
+    display: grid;
+}
+.h-right p {
+    text-align: right;
+}
+.top-h {
+    background-color: #87ceeb;
+    height: 60px;
+    padding-right: 15px;
+}
+
+.bottom-h {
+    background-color: #00ffff;
+    height: 60px;
+    padding-right: 15px;
+}
